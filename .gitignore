@@ -1,4 +1,11 @@
+.gitignore
 core.Microsoft*
 env.py
 __pycache__/
 *.py[cod]
+.thia/
+.gitpod*
+.gitpod.yml
+dc_mini_project.code-workspace
+.DS_Store*
+.vscode
