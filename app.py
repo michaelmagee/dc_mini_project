@@ -1,3 +1,4 @@
+import os
 from flask import Flask
 
 #  These are the environments that this will run in 
